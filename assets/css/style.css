@@ -1,0 +1,54 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #1fae1f;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a {
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+    color: white;
+    font-family: Century;
+
+}
+li a:hover{
+    background-color: black;
+}
+.prog{
+    color: red;
+    border: 2px solid blue;
+    text-align: center;
+    background-color: chartreuse;
+    padding: 20px;
+    margin: 20px;
+}
+.fruits{
+    color: brown;
+     border: 2px solid yellowgreen;
+    text-align: center;
+    background-color: violet;
+    padding: 20px;
+    margin: 20px;
+
+}
+.PROG{
+     border: 2px solid gold;
+    text-align: center;
+    background-color: deeppink;
+    padding: 20px;
+    margin: 20px;
+
+}
+#cars{
+      border: 2px solid cyan;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 20px;
+
+}
